@@ -16,7 +16,7 @@ const endPoints = {
   kujira: 'https://lcd.kaiyo.kujira.setten.io',
   comdex: 'https://rest.comdex.one',
   umee: 'https://api.mainnet.network.umee.cc',
-  orai: 'https://lcd.orai.io',
+  oraichain: 'https://lcd.orai.io',
   juno: 'https://lcd-juno.cosmostation.io',
 }
 
